@@ -1,5 +1,4 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project tells the current season (summer or winter) depending upon your current location.
 
 ## Available Scripts
 
